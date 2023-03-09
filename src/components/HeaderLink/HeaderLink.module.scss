@@ -1,0 +1,14 @@
+@import "../../styles/Variaveis";
+
+.link {
+    color: $branco;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 1em;
+    text-decoration: none;
+    
+    &:hover {
+        color: $cor-valorant;
+        transition: 0.3s ease-in-out;
+    }
+}
