@@ -1,6 +1,6 @@
 # Projeto-Valorant-Tag
  
-**Acesse o Projeto pelo link: https://projeto-valorant-tag-htamagnus.vercel.app/**
+**Acesse o Projeto pelo link: https://projeto-tag-htamagnus.vercel.app/**
 ---
  **🖥️Tecnologias e ferramentas utilizadas no projeto:**
 * React
